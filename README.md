@@ -42,37 +42,3 @@ CREATE TABLE spotify (
     energy_liveness FLOAT,
     most_played_on VARCHAR(50)
 );
-
-
-Easy Queries
-Tracks with more than 1 billion streams
-```sql
-SELECT track, artist, stream
-FROM spotify
-WHERE stream > 1000000000;
-
-List all albums and their artists
-
-
-Total comments on licensed tracks
-
-Find all tracks where album_type = 'single'
-
-Medium Queries
-Average danceability per album
-
-Top 5 tracks by energy
-
-Views and likes of tracks where official_video = TRUE
-
-Total views for each album
-
-Advanced Queries
-Top 3 most-viewed tracks per artist using window functions
-
-Tracks where liveness > average liveness
-
-Difference between max and min energy in albums (with CTE)
-
-Tracks where energy/liveness > 1.2
-
