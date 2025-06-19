@@ -2,7 +2,7 @@
 ![splogo](https://github.com/user-attachments/assets/5d48bcd8-1993-4c79-a6f8-54eca6905ed5)
 
 
-# This project is about using SQL to explore and analyze Spotify data. It includes easy to advanced queries.
+This project is about using SQL to explore and analyze Spotify data. It includes easy to advanced queries.
 
 ---
 
