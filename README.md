@@ -1,6 +1,8 @@
 # Spotify data analysis SQL Project
-![spotify_logo](https://github.com/user-attachments/assets/b0e4e1da-e0f8-4e36-962c-ca84d24dde24)
-This project is about using SQL to explore and analyze Spotify data. It includes easy to advanced queries.
+![splogo](https://github.com/user-attachments/assets/5d48bcd8-1993-4c79-a6f8-54eca6905ed5)
+
+
+# This project is about using SQL to explore and analyze Spotify data. It includes easy to advanced queries.
 
 ---
 
